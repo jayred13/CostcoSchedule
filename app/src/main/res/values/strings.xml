@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CostcoSchedule</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="welcome">Welcome To Your Schedule Viewer!</string>
+    <string name="login_automatically">Login Automatically</string>
+    <string name="button_submit">Submit</string>
+    <string name="costco_logo">Costco Logo</string>
+    <string name="shared_schedules">Shared Schedules</string>
+    <string name="postings">Postings</string>
+    <string name="return_to_login">Return to login</string>
+    <string name="employee_site">Employee Site</string>
+    <string name="title_activity_postings">PostingsActivity</string>
+</resources>
