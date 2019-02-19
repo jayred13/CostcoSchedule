@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">CostcoSchedule</string>
+    <string name="app_name">Costco Schedule Viewer</string>
     <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
     <string name="submit">Submit</string>
-    <string name="welcome">Welcome To Your Schedule Viewer!</string>
+    <string name="welcome">Welcome To Your Schedule-Viewer!</string>
     <string name="login_automatically">Login Automatically</string>
     <string name="button_submit">Submit</string>
     <string name="costco_logo">Costco Logo</string>
@@ -12,4 +12,25 @@
     <string name="return_to_login">Return to login</string>
     <string name="employee_site">Employee Site</string>
     <string name="title_activity_postings">PostingsActivity</string>
+    <string name="menu">Menu</string>
+    <string name="front_end_cart_crew">Front End/Cart Crew</string>
+    <string name="closing_pattern_1">5:45pm - 10:30pm</string>
+    <string name="monday">Monday</string>
+    <string name="dash">-</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="n_a">n/a</string>
+    <string name="day_off">Day-off</string>
+    <string name="friday">Friday</string>
+    <string name="midshift_full">11:30am-8:00pm</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="date">date</string>
+    <string-array name="week_menu">
+        <item>Current Week</item>
+        <item>Next Week</item>
+        <item>Following Week</item>
+        <item>Older Schedules...</item>
+    </string-array>
 </resources>

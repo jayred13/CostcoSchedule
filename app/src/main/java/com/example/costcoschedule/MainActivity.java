@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             );
             showToast("Login Saved!");
         }
-        showToast("Submit Clicked!");
+        showToast("Submited!");
         startActivity(new Intent(this, PersonalScheduleActivity.class));
     }
 
